@@ -23,7 +23,7 @@ public class JFramo {
 	public static void main(String[]args) {
 		//UI for Setting up Box
 		frame = new JFrame("Not a tutorial");
-		System.out.println("Lets see if this works");
+		System.out.println("Lets see if this does not work");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(500, 300);
 		frame.setPreferredSize(new Dimension(1000, 500));
