@@ -32,7 +32,7 @@ gradle -b build.gradle build
 ```
 This should add the shim client JAR to your local Maven repository.
 ## Running the tests
-*I will explain how to use the application and see that the voting data is transparent, decentralized, and incorruptible.*
+*Currently our app does not have a connection with the blockchain network we created. But we can still log voter data using a RESTful api such as SoapUI.*
 ## Deployment
 *Additional notes on how to add this to a live system will be incorporated once the app has reached the point of authenticating user data. It needs to make sure the contituents are allowed to vote.*
 ## Built With
