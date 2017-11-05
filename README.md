@@ -44,5 +44,7 @@ This should add the shim client JAR to your local Maven repository.
 ## Authors
 * **Harsh Bhatt** - *Back-End* - [hbhatt687](https://github.com/hbhatt687)
 * **Anthony Hsia** - *Front-End* - [ahsia3](https://github.com/ahsia3)
+## License
+This project is licensed under the apache license - see the LICESNE.md file for details.
 ## Acknowledgements
 * Thanks to IBM developerWorks for their [Java Blockchain](https://www.ibm.com/developerworks/library/j-chaincode-for-java-developers/index.html) tutorial.
